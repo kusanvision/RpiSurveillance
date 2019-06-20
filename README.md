@@ -4,4 +4,6 @@ CCTV cameras. Using supervised learning, it detects people entering the premises
 between known (e.g. family members or frequent relatives) and unknown people (e.g. stranger,
 delivery person) and gives warning accordingly.
 
-Implemented in Python.(ongoing hobby project).
+Implemented in Python and OpenCV.
+
+(ongoing hobby project).
